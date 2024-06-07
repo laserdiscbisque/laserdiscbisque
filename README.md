@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @limes4cash
-- 👀 I’m interested in electrical engineering and low-level programming
-- 🌱 I’m currently learning C/#/++, Python, Lisp as well as some 'offline' things - circuit analysis, vector calculus, and computer architecture
+Hi, I’m @limes4cash. I'm studying for a diploma in electrical and computer engineering technology. 
+- Python
+- C
+- System Verilog
+- Lisp
 
 <!---
 limes4cash/limes4cash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
