@@ -32,7 +32,7 @@ I am also repairing computers and learning Linux.
 
 ## Languages
 
-I trust my Python skills the most, but I've mainly used it for simple data analysis and basic scripting. Otherwise, I am mainly interested in Common Lisp and othe Lisp dialects, and low-level languages like C and Rust.
+I trust my Python skills the most, but I've mainly used it for simple data analysis and basic scripting. Otherwise, I am mainly interested in Common Lisp and other Lisp dialects, and low-level languages like C and Rust.
 
 ### For school
 
@@ -68,6 +68,7 @@ Here's a shortlist of coding- or design-related software I've used within the la
 | Software | Description | Use | Experience | Proficiency |
 | --- | --- | --- | --- | --- |
 | VS Code | IDE | Coding | 3 yrs | Intermediate |
+| Visual Studio | IDE | Course in program design | < 1 yr | Beginner |
 | Emacs | Text editor | Coding, documentation, & personal organization | 1 yr | Intermediate |
 | Quartus Prime Lite | FPGA design software | Courses in CPLD programming & hardware design | < 1 yr | Intermediate |
 | ModelSim | FPGA simulation software | Courses in CPLD programming & hardware design | < 1 yr | Beginner |
@@ -98,7 +99,7 @@ I currently own the following laptops:
 
 ### Career
 
-My main professional interests are  
+My main professional competencies are  
 | Domain | Use | Experience | Proficiency |
 | --- | --- | --- | --- | 
 | Embedded systems | School & current job | 1 yr | Beginner |
