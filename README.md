@@ -4,7 +4,7 @@
 
 Hi, I’m @laserdiscbisque, an Electrical and Computer Engineering Technology student.
 
-Because this is the Github profile of someone trying to learn, I've done something a little odd: where applicable, I've attached my own perceived skill-level to things below.
+Because this is the Github profile of someone trying to learn, I've done something a little odd: where applicable, I've attached my own perceived skill-level to things below. If the detail seems a bit much, it's because I mean to use my profile as log/journal for my professional development and some ongoing work such as repairing computers for my friends and colleagues, in addition to the usual repo hosting.
 
 ### School
 
@@ -20,11 +20,11 @@ My current main projects (outside of school & work) are REPTAT & `babi`
 
 ### REPTAT
 
-REPTAT is an automated climate control system for small animal enclosures and terrariums.
+REPTAT is an automated climate control system for small animal enclosures and terrariums. 
 
 ### `babi`
 
-`babi` will be a natively compiled scripting language. I am writing the first compiler in CommonLisp. `babi` may have even stronger opinions about what should or shouldn't produce side effects.
+`babi` will be a natively compiled scripting language. I am writing its first compiler in CommonLisp. `babi` may have even stronger opinions about what should or shouldn't produce side effects. I am currently in a research stage and writing a pseudo-specification, which will be up shortly.
 
 ### General passtimes
 
