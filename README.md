@@ -1,32 +1,39 @@
 # laserdiscbisque
 
-## Who
+Hi, I’m @laserdiscbisque, a Low Voltage Technician studying Electrical and Computer Engineering Technology at BCIT.
 
-Hi, I’m @laserdiscbisque, a Low Voltage Technician and an Electrical and Computer Engineering Technology student.
+# Projects and self-learning
 
-### School
+Outside of school & work, I have a few (shelved) projects.
 
-I'm studying for an ECET diploma from the British Columbia Institute of Technology. I've completed one of two years, plus the Technology Entry program.
+## REPTAT
 
-### Work
+Automated climate control system for small animal enclosures and terrariums. Old codebase in Arduino, goalpost is embedded Rust on an ESP32.
 
-I'm currently working a co-op job as a Low Voltage Technician.
+## `babi`
 
-## Projects
+A scripting language that works as a wrapper around a few Common Lisp forms. Starting with a specification is forcing me to learn to rein my ideas in.
 
-My current main projects (outside of school & work) are REPTAT & `babi`
+## Other stuff I'm learning/doing
 
-### REPTAT
+- RISC-V assembly
+- Linux (1yr+ daily driving)
+- E-waste based personal file server
+- Laptop repair (for the above, and for friends if asked nicely)
 
-REPTAT is an automated climate control system for small animal enclosures and terrariums. 
+# Rigs
 
-### `babi`
+| Who | Model | OS/distro | Use | Sourced from |
+|-|-|-|-|-|
+| Leroy III | Asus ROG | Windows 11 | Graphics-heavy software, remote client for campus computer bank | Gift from family |
+| Leroy IV | Thinkpad P50 | Arch Linux | Home server | Enterprise e-waste |
+| Leroy V | Thinkpad T530 | Arch Linux | Extra storage and backups | Enterprise e-waste |
+| Leroy VI | Asus Eee-PC | Debian 12 (i386) | Comedy reasons | Facebook Marketplace, $40 |
+| Leroy VII | Thinkpad T480 | Arch Linux | Daily driver | Enterprise e-waste, $100 |
 
-`babi` will be a natively compiled scripting language. I am writing its first compiler in CommonLisp. `babi` may have even stronger opinions about what should or shouldn't produce side effects. I am currently in a research stage and writing a pseudo-specification, which will be up shortly.
+# Other passtimes
 
-### General passtimes
-
-I am also repairing computers and learning to use Linux.
+I read a lot, run if I want to, and meditate if I remember to.
 
 <!---
 laserdiscbisque/laserdiscbisque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
