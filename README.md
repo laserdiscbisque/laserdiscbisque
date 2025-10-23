@@ -1,6 +1,6 @@
 # laserdiscbisque
 
-Hi, I’m @laserdiscbisque, a Low Voltage Technician studying Electrical and Computer Engineering Technology at BCIT.
+Hi, I’m @laserdiscbisque, a systems integration coordinator studying Electrical and Computer Engineering Technology at BCIT.
 
 # Projects and self-learning
 
@@ -10,24 +10,20 @@ Outside of school & work, I have a few (shelved) projects.
 
 Automated climate control system for small animal enclosures and terrariums. Old codebase in Arduino, goalpost is embedded Rust on an ESP32.
 
-## `babi`
-
-A scripting language that works as a wrapper around a few Common Lisp forms. Starting with a specification is forcing me to learn to rein my ideas in.
-
 ## Other stuff I'm learning/doing
 
 - RISC-V assembly
-- Linux (1yr+ daily driving)
-- E-waste based personal file server
-- Laptop repair (for the above, and for friends if asked nicely)
+- Linux (2yr+ daily driving)
+- E-waste home lab
+- Laptop repair (if asked nicely)
 
 # Rigs
 
 | Who | Model | OS/distro | Use | Sourced from |
 |-|-|-|-|-|
-| Leroy III | Asus ROG | Windows 11 | Graphics-heavy software, remote client for campus computer bank | Gift from family |
+| Leroy III | Asus ROG | Windows 11 | Heavy hitter | Gift from family |
 | Leroy IV | Thinkpad P50 | Arch Linux | Home server | Enterprise e-waste |
-| Leroy V | Thinkpad T530 | Arch Linux | Extra storage and backups | Enterprise e-waste |
+| Leroy V | Thinkpad T530 | Arch Linux | NAS | Enterprise e-waste |
 | Leroy VI | Asus Eee-PC | Debian 12 (i386) | Comedy reasons | Facebook Marketplace, $40 |
 | Leroy VII | Thinkpad T480 | Arch Linux | Daily driver | Enterprise e-waste, $100 |
 
